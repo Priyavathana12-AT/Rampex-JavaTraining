@@ -1,5 +1,4 @@
 package DAY1;
-
 class Number {
     public static void main(String[] args) {
         int a = 10;
