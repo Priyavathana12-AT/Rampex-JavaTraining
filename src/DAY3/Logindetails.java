@@ -1,4 +1,4 @@
-package DAY3;
+
 
 import java.util.Scanner;
 class Logindetails{
@@ -17,3 +17,5 @@ class Logindetails{
         }
     }
 }
+
+
