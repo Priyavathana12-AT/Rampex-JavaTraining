@@ -1,6 +1,6 @@
 package DAY1;
 
-public class SimpleInterest {
+class SimpleInterest {
     public static void main(String[] args) {
         double principal = 10000;
         double rate = 5;
