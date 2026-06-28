@@ -1,7 +1,7 @@
 package DAY7.CLASSWORK;
 import java.util.Scanner;
 import java.util.Arrays;
-import java.util.Scanner;
+
 
 public class ArrayLength {
     public static void main(String[] args){
