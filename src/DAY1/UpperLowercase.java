@@ -1,6 +1,6 @@
 package DAY1;
 
-public class UpperLowercase {
+class UpperLowercase {
 
     public static void main(String[] args) {
         char letter = 'a';
