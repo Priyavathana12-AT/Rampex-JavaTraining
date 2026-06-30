@@ -1,0 +1,7 @@
+package DAY8.CLASSTASK;
+
+public class ArrayRotationTwoPointer {
+    public static void main(String[] args){
+        int [] nums={1,2,3,4};
+    }
+}
